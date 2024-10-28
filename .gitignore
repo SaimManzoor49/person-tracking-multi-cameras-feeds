@@ -1,0 +1,32 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.mpeg
+*.mpg
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Any other database file extensions you want to ignore can be added here
